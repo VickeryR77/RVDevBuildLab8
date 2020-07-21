@@ -1,0 +1,13 @@
+C:\Users\RVICKERY\source\repos\igPayatinLay\bin\Debug\netcoreapp3.1\igPayatinLay.exe
+C:\Users\RVICKERY\source\repos\igPayatinLay\bin\Debug\netcoreapp3.1\igPayatinLay.deps.json
+C:\Users\RVICKERY\source\repos\igPayatinLay\bin\Debug\netcoreapp3.1\igPayatinLay.runtimeconfig.json
+C:\Users\RVICKERY\source\repos\igPayatinLay\bin\Debug\netcoreapp3.1\igPayatinLay.runtimeconfig.dev.json
+C:\Users\RVICKERY\source\repos\igPayatinLay\bin\Debug\netcoreapp3.1\igPayatinLay.dll
+C:\Users\RVICKERY\source\repos\igPayatinLay\bin\Debug\netcoreapp3.1\igPayatinLay.pdb
+C:\Users\RVICKERY\source\repos\igPayatinLay\obj\Debug\netcoreapp3.1\igPayatinLay.csprojAssemblyReference.cache
+C:\Users\RVICKERY\source\repos\igPayatinLay\obj\Debug\netcoreapp3.1\igPayatinLay.AssemblyInfoInputs.cache
+C:\Users\RVICKERY\source\repos\igPayatinLay\obj\Debug\netcoreapp3.1\igPayatinLay.AssemblyInfo.cs
+C:\Users\RVICKERY\source\repos\igPayatinLay\obj\Debug\netcoreapp3.1\igPayatinLay.csproj.CoreCompileInputs.cache
+C:\Users\RVICKERY\source\repos\igPayatinLay\obj\Debug\netcoreapp3.1\igPayatinLay.dll
+C:\Users\RVICKERY\source\repos\igPayatinLay\obj\Debug\netcoreapp3.1\igPayatinLay.pdb
+C:\Users\RVICKERY\source\repos\igPayatinLay\obj\Debug\netcoreapp3.1\igPayatinLay.genruntimeconfig.cache
